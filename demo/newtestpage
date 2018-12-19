@@ -1,5 +1,5 @@
 
 const MyComponent = (props) => {
-  return(<div>Custom code changed</div>)
+  return(<div>Custom code</div>)
 }
       
